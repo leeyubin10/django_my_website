@@ -1,6 +1,6 @@
 venv/
 .idea/
 
-*.py
+*.pyc
 
 db.sqlite3
